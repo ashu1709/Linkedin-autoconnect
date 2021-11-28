@@ -6,12 +6,12 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felladrin/linkedin-autoconnect-chrome-extension.git"
+    "url": "https://github.com/ashu1709/Linkedin-autoconnect.git"
   },
   "author": "Victor Nogueira <victor@victornogueira.app>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/felladrin/linkedin-autoconnect-chrome-extension/issues"
+    "url": "https://github.com/ashu1709/Linkedin-autoconnect/issues"
   },
   "scripts": {
     "start": "node --loader ts-node/esm scripts/start.ts",
